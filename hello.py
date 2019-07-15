@@ -1,2 +1,2 @@
-print "hello github"
-print "It is morning"
+print ("hello github")
+print ("It is morning")
